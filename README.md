@@ -22,12 +22,11 @@ Step 6: Display message give in MainActivity file.
 Step 7: Save and run the application.
 
 ## PROGRAM:
-**Program to print the text “optionmenu”.**
-
-**Developed by:** Lakshmipriya D
-**Registration Number :** 212222040085
-
-
+```
+Program to display animation operation”.
+Developed by: lakshmipriya D
+Registeration Number : 212222040085
+```
 
 ### activity_main.xml
 ```
